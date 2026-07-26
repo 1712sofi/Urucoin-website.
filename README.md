@@ -1,1 +1,1 @@
-# Urucoin-website.
+# Urucoin.com
